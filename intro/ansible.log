@@ -1,0 +1,8 @@
+2021-07-17 17:32:28,172 p=3624 u=ec2-user n=ansible | [WARNING]: Platform linux on host node1 is using the discovered Python interpreter at /usr/bin/python, but future installation of another Python interpreter
+could change this. See https://docs.ansible.com/ansible/2.9/reference_appendices/interpreter_discovery.html for more information.
+
+2021-07-17 17:32:28,173 p=3624 u=ec2-user n=ansible | node1 | CHANGED | rc=0 >>
+devops
+ 17:32:28 up  2:47,  3 users,  load average: 0.00, 0.00, 0.00
+node1
+
